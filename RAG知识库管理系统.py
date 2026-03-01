@@ -455,4 +455,4 @@ The system retrieves relevant documents from the knowledge base and uses AI to g
 
 if __name__ == "__main__":
     # 设置share=False只在本地运行，share=True可以生成公网链接
-    iface.launch(share=True)
+    iface.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
