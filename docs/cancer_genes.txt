@@ -1,0 +1,31 @@
+Oncogenes and Tumor Suppressor Genes Database
+
+MYC Gene Information
+Function: MYC is a proto-oncogene that encodes a transcription factor regulating cell cycle progression, apoptosis, and cellular transformation. It controls the expression of genes involved in cell growth and proliferation.
+Associated Diseases: Burkitt lymphoma, diffuse large B-cell lymphoma, multiple myeloma, breast cancer, lung cancer, and colorectal cancer.
+Treatment Approaches: Targeted therapies against MYC (BET inhibitors, CDK inhibitors), conventional chemotherapy, immunotherapy, and combination therapies.
+
+RAS Gene Family (KRAS, NRAS, HRAS)
+Function: RAS proteins are small GTPases that regulate cell proliferation, differentiation, and survival through various signaling pathways including MAPK and PI3K/AKT.
+Associated Diseases: KRAS mutations in pancreatic cancer (90%), colorectal cancer (40%), lung adenocarcinoma (30%); NRAS in melanoma; HRAS in bladder and head/neck cancers.
+Treatment Approaches: KRAS G12C inhibitors (sotorasib, adagrasib), MEK inhibitors, combination therapies, and immunotherapy for microsatellite instability-high tumors.
+
+APC Gene Information
+Function: APC is a tumor suppressor gene that regulates the Wnt signaling pathway and controls cell adhesion, migration, and chromosomal stability.
+Associated Diseases: Familial adenomatous polyposis (FAP), colorectal cancer, hepatoblastoma, and desmoid tumors.
+Treatment Approaches: Prophylactic colectomy for FAP, NSAIDs for polyp prevention, targeted therapies against Wnt signaling, and standard cancer treatments.
+
+RB1 Gene Information
+Function: RB1 encodes the retinoblastoma protein, a key regulator of the G1/S cell cycle checkpoint. It prevents cells from entering S phase inappropriately.
+Associated Diseases: Retinoblastoma, osteosarcoma, soft tissue sarcomas, and small cell lung cancer.
+Treatment Approaches: Enucleation, chemotherapy (carboplatin, etoposide, vincristine), radiation therapy, and CDK4/6 inhibitors for RB-deficient tumors.
+
+EGFR Gene Information
+Function: EGFR encodes the epidermal growth factor receptor, a transmembrane tyrosine kinase that regulates cell proliferation, survival, and differentiation.
+Associated Diseases: Non-small cell lung cancer, glioblastoma, colorectal cancer, and head and neck cancers.
+Treatment Approaches: EGFR tyrosine kinase inhibitors (erlotinib, gefitinib, osimertinib), monoclonal antibodies (cetuximab, panitumumab), and combination therapies.
+
+HER2 Gene Information
+Function: HER2 encodes a transmembrane tyrosine kinase receptor that promotes cell growth and division. Overexpression leads to aggressive tumor behavior.
+Associated Diseases: HER2-positive breast cancer (20-25% of cases), gastric cancer, and other solid tumors.
+Treatment Approaches: Trastuzumab, pertuzumab, T-DM1 (antibody-drug conjugate), HER2 tyrosine kinase inhibitors (lapatinib, neratinib), and combination chemotherapy. 

@@ -1,0 +1,29 @@
+BRCA1 Gene Information
+Function: BRCA1 is a tumor suppressor gene that plays a critical role in DNA repair through homologous recombination. It helps maintain genomic stability by repairing double-strand breaks in DNA.
+Associated Diseases: Hereditary breast and ovarian cancer syndrome, increased risk of breast cancer (up to 72% lifetime risk), ovarian cancer (up to 44% lifetime risk), and potentially pancreatic and prostate cancers.
+Treatment Approaches: Prophylactic mastectomy and oophorectomy, enhanced screening protocols, PARP inhibitors (olaparib, niraparib), platinum-based chemotherapy, and targeted therapy.
+
+BRCA2 Gene Information
+Function: BRCA2 is another tumor suppressor gene involved in DNA repair via homologous recombination. It works with BRCA1 to maintain chromosome stability and prevent malignant transformation.
+Associated Diseases: Hereditary breast and ovarian cancer syndrome, breast cancer risk (up to 69% lifetime risk), ovarian cancer (up to 17% lifetime risk), male breast cancer, pancreatic cancer, and melanoma.
+Treatment Approaches: Similar to BRCA1 - prophylactic surgery, enhanced surveillance, PARP inhibitors, platinum-based chemotherapy, and immunotherapy in some cases.
+
+TP53 Gene Information
+Function: TP53 encodes the p53 protein, known as the "guardian of the genome." It acts as a tumor suppressor by regulating cell cycle, DNA repair, and apoptosis in response to cellular stress.
+Associated Diseases: Li-Fraumeni syndrome, increased risk of multiple cancers including sarcomas, brain tumors, breast cancer, adrenocortical carcinoma, and leukemia.
+Treatment Approaches: Enhanced cancer surveillance, prophylactic measures based on cancer type, conventional chemotherapy and radiation (though p53-mutant tumors may be resistant), and experimental therapies targeting p53 pathways.
+
+CFTR Gene Information
+Function: CFTR encodes the cystic fibrosis transmembrane conductance regulator, a chloride channel that regulates salt and water transport across epithelial cell membranes.
+Associated Diseases: Cystic fibrosis (CF), congenital bilateral absence of vas deferens (CBAVD), and chronic pancreatitis.
+Treatment Approaches: CFTR modulators (ivacaftor, lumacaftor, tezacaftor, elexacaftor), airway clearance techniques, pancreatic enzyme replacement, nutritional support, and lung transplantation in severe cases.
+
+APOE Gene Information
+Function: APOE encodes apolipoprotein E, which plays a crucial role in lipid metabolism and transport. It's involved in cholesterol homeostasis and neuronal repair.
+Associated Diseases: Alzheimer's disease (especially APOE4 variant), cardiovascular disease, and age-related cognitive decline.
+Treatment Approaches: Lifestyle modifications (diet, exercise), cholesterol management, cognitive training, and experimental Alzheimer's therapies targeting amyloid and tau pathways.
+
+HUNTINGTIN (HTT) Gene Information
+Function: HTT encodes huntingtin protein, which is involved in neuronal function, intracellular transport, and transcriptional regulation. Normal huntingtin is essential for embryonic development.
+Associated Diseases: Huntington's disease (HD) - a progressive neurodegenerative disorder characterized by movement, cognitive, and psychiatric symptoms.
+Treatment Approaches: Symptomatic treatments (tetrabenazine for chorea, antidepressants, antipsychotics), physical therapy, speech therapy, and experimental approaches including antisense oligonucleotides and gene therapy. 

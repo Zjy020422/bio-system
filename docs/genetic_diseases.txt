@@ -1,0 +1,36 @@
+Genetic Diseases and Associated Genes Database
+
+Sickle Cell Disease - HBB Gene
+Function: HBB encodes the beta-globin subunit of hemoglobin. The sickle cell mutation (Glu6Val) causes hemoglobin polymerization under low oxygen conditions.
+Associated Diseases: Sickle cell anemia, sickle cell trait, and related hemoglobinopathies.
+Treatment Approaches: Hydroxyurea, voxelotor (hemoglobin oxygen affinity modulator), crizanlizumab (anti-P-selectin), blood transfusions, bone marrow transplantation, and gene therapy.
+
+Duchenne Muscular Dystrophy - DMD Gene
+Function: DMD encodes dystrophin, a large protein that connects the cytoskeleton to the extracellular matrix in muscle fibers, providing structural stability.
+Associated Diseases: Duchenne muscular dystrophy (severe), Becker muscular dystrophy (milder), and dilated cardiomyopathy.
+Treatment Approaches: Corticosteroids (deflazacort, prednisone), exon-skipping therapies (eteplirsen, golodirsen), gene therapy, physical therapy, and cardiac management.
+
+Phenylketonuria - PAH Gene
+Function: PAH encodes phenylalanine hydroxylase, the enzyme that converts phenylalanine to tyrosine. Deficiency leads to phenylalanine accumulation.
+Associated Diseases: Classical phenylketonuria (PKU), hyperphenylalaninemia, and intellectual disability if untreated.
+Treatment Approaches: Low-phenylalanine diet, sapropterin (BH4 cofactor), pegvaliase (enzyme replacement), and large neutral amino acid supplements.
+
+Tay-Sachs Disease - HEXA Gene
+Function: HEXA encodes the alpha subunit of beta-hexosaminidase A, an enzyme that breaks down GM2 ganglioside in lysosomes.
+Associated Diseases: Tay-Sachs disease, juvenile and adult-onset GM2 gangliosidosis.
+Treatment Approaches: Supportive care, seizure management, nutritional support, and experimental therapies including substrate reduction and gene therapy.
+
+Marfan Syndrome - FBN1 Gene
+Function: FBN1 encodes fibrillin-1, a glycoprotein component of microfibrils that provides structural support to connective tissues.
+Associated Diseases: Marfan syndrome, isolated ectopia lentis, and MASS phenotype (mitral valve prolapse, aortic dilatation, skeletal features, skin striae).
+Treatment Approaches: Cardiovascular monitoring, aortic root replacement, beta-blockers or ARBs, ophthalmologic care, and orthopedic management.
+
+Neurofibromatosis Type 1 - NF1 Gene
+Function: NF1 encodes neurofibromin, a tumor suppressor protein that regulates RAS signaling by acting as a GTPase-activating protein.
+Associated Diseases: Neurofibromatosis type 1, optic gliomas, neurofibromas, learning disabilities, and increased cancer risk.
+Treatment Approaches: Surgical removal of symptomatic neurofibromas, MEK inhibitors (selumetinib) for plexiform neurofibromas, educational support, and cancer surveillance.
+
+Fragile X Syndrome - FMR1 Gene
+Function: FMR1 encodes FMRP (fragile X mental retardation protein), which regulates protein synthesis at synapses and is crucial for synaptic plasticity.
+Associated Diseases: Fragile X syndrome (intellectual disability, autism spectrum behaviors), fragile X-associated tremor/ataxia syndrome (FXTAS), and fragile X-associated primary ovarian insufficiency.
+Treatment Approaches: Behavioral interventions, speech therapy, special education, medications for ADHD and anxiety, and experimental targeted therapies. 
